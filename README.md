@@ -1,16 +1,17 @@
 # world_clock
 
-A new Flutter project.
+## ScreenShots
 
-## Getting Started
+## Video Demo
+[World Clock Application Demo]()
 
-This project is a starting point for a Flutter application.
+## App Apk
 
-A few resources to get you started if this is your first Flutter project:
+## Introduction
+World CLock Application Using Api's of World Clock and Show if it is day or night of {Egypt,Germany,Greece,Indonisia,Kenya,South Korea,UK,USA}
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dscribtion
+This Application implements Api's
+* From http://worldtimeapi.org/api/timezone
+* uses Safe Area Widget
+* uses Navigator Push Replacement By routes
